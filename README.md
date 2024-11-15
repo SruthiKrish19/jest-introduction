@@ -1,5 +1,5 @@
-# js-meetup-jest
-This repository contains the content for a tech talk focused on writing test cases using Jest in JavaScript projects. It includes step-by-step instructions, sample code, and best practices for testing various types of functions.
+# jest-introduction
+This repository contains the contents for a tech talk focused on writing test cases using Jest in JavaScript projects. It includes step-by-step instructions, sample code, and best practices for testing various types of functions.
 
 ## Contents 
 In this example I have covered the basics of writing test cases with jest.
